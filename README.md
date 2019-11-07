@@ -13,5 +13,6 @@ Application guide for User Login and Logout using the below tools and technologi
 
 5. MySQL 8.0.11
 
-Step 1: Create a Maven Project
-Using Eclipse IDE, create a Maven Project by selecting Web Archetype
+Maven setup
+
+Visit Maven official website, download the Maven zip file, for example : apache-maven-3.6.0-bin.zip.
